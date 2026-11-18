@@ -18,7 +18,7 @@ Estudiante de **Ingeniería de Sistemas en la Universidad del Magdalena**, actua
 - **Bases sólidas:** Java, C++, programación estructurada y orientada a objetos; Clean Code y SOLID.
 - **Experiencia colaborativa:** plataformas de turismo y logística con microservicios, además de automatización de finanzas personales.
 - **Trabajo en equipo:** capacidad para comunicar conceptos técnicos, acompañar la resolución de problemas y colaborar en el desarrollo de software.
-- **Intereses:** integración de soluciones con IA, desarrollo móvil, diseño y gestión de proyectos.
+- **Quiero aprender:** integración de soluciones con IA y desarrollo de aplicaciones móviles.
 
 ## Tecnologías
 
@@ -54,6 +54,12 @@ Trabajo también con **C++**, **SQL**, **WSL / Ubuntu**, **GitHub Pages** y **VS
 
 **Formación académica y laboratorios**
 
+- **Estructuras de datos:** trabajo con C++ y Java.
+- **Algoritmos:** formación y ejercicios con C++ y C.
+- **Bases de datos:** formación académica con MySQL y SQL.
+- **Redes:** fundamentos OSI y Ethernet, subredes IPv4, VLAN y enrutamiento estático y dinámico (RIP, OSPF y EIGRP), con prácticas en Cisco Packet Tracer.
+- **Ingeniería de software:** aplicación en el proyecto de gestión logística de paquetes.
+- **Matemáticas de ingeniería:** formación matemática como parte de Ingeniería de Sistemas.
 - **C y Sistemas Operativos:** procesos POSIX, comunicación entre procesos, señales y memoria.
 - **Python y scikit-learn:** algoritmos de búsqueda y clasificación de texto en Inteligencia Artificial.
 - **R:** modelado de dinámica de sistemas.
