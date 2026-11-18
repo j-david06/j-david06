@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Juan Rivera — Desarrollo backend con Java y Spring Boot" width="100%" />
+  <img src="header-programmer.gif" alt="Juan Rivera — Programador trabajando frente a su computador" width="100%" />
 </p>
 
 <p align="center">
@@ -11,17 +11,18 @@
 
 ## Sobre mí
 
-Hola, soy **Juan Rivera** 👋
+Hola, soy **Juan Rivera**
 
-Mi trabajo en GitHub se centra en el **desarrollo backend con Java y Spring Boot**. Construyo proyectos que conectan reglas de negocio, APIs y bases de datos, con especial interés en la automatización de finanzas personales y los sistemas de logística.
+Estudiante de **Ingeniería de Sistemas en la Universidad del Magdalena**, actualmente en **octavo semestre**, en Santa Marta. Mi enfoque principal es el **desarrollo backend y la arquitectura de software**, con experiencia en microservicios y arquitectura hexagonal, complementado con desarrollo web en React.
 
-- **En construcción:** automatización de finanzas personales para Colombia e ingesta de movimientos desde iOS.
-- **Enfoque técnico:** separar el dominio de la infraestructura, validar reglas de negocio y mantener la consistencia de los datos.
-- **Forma de trabajar:** cambios revisables, pull requests, documentación y pruebas.
+- **Bases sólidas:** Java, C++, programación estructurada y orientada a objetos; Clean Code y SOLID.
+- **Experiencia colaborativa:** plataformas de turismo y logística con microservicios, además de automatización de finanzas personales.
+- **Docencia:** monitor académico de programación durante dos semestres.
+- **Intereses:** integración de soluciones con IA, desarrollo móvil, diseño y gestión de proyectos.
 
 ## Tecnologías
 
-Herramientas presentes en mis proyectos públicos:
+Tecnologías que he aplicado en proyectos y durante mi formación:
 
 **Backend**
 
@@ -30,14 +31,44 @@ Herramientas presentes en mis proyectos públicos:
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
+**Frontend web**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
 **Datos e infraestructura**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Trabajo también con **C++**, **SQL**, **WSL / Ubuntu**, **GitHub Pages** y **VS Code**. Utilizo herramientas de desarrollo asistido por IA, entre ellas Claude y Codex.
+
+**Formación académica y laboratorios**
+
+- **C y Sistemas Operativos:** procesos POSIX, comunicación entre procesos, señales y memoria.
+- **Python y scikit-learn:** algoritmos de búsqueda y clasificación de texto en Inteligencia Artificial.
+- **R:** modelado de dinámica de sistemas.
 
 ## Proyectos destacados
+
+### [Samaria360](https://github.com/Al3jooo/Samaria360)
+
+Participación en una plataforma de turismo de Santa Marta, desarrollada en equipo como proyecto de Arquitectura de Software.
+
+**Stack del proyecto:** Java · Spring Boot · React · TypeScript · PostgreSQL · MongoDB · RabbitMQ · Docker
+
+Contribuciones en funcionalidades de reservas y catálogo, interfaces de usuario y correcciones de calidad. El prototipo combina microservicios y arquitectura hexagonal.
+
+[Explorar el proyecto →](https://github.com/Al3jooo/Samaria360#readme) · [Ver mis pull requests →](https://github.com/Al3jooo/Samaria360/pulls?q=is%3Apr+author%3Aj-david06)
 
 ### [Finanzas personales](https://github.com/j-david06/proyecto-finanzas)
 
