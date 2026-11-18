@@ -17,7 +17,7 @@ Estudiante de **Ingeniería de Sistemas en la Universidad del Magdalena**, actua
 
 - **Bases sólidas:** Java, C++, programación estructurada y orientada a objetos; Clean Code y SOLID.
 - **Experiencia colaborativa:** plataformas de turismo y logística con microservicios, además de automatización de finanzas personales.
-- **Docencia:** monitor académico de programación durante dos semestres.
+- **Trabajo en equipo:** capacidad para comunicar conceptos técnicos, acompañar la resolución de problemas y colaborar en el desarrollo de software.
 - **Intereses:** integración de soluciones con IA, desarrollo móvil, diseño y gestión de proyectos.
 
 ## Tecnologías
@@ -68,6 +68,10 @@ Participación en una plataforma de turismo de Santa Marta, desarrollada en equi
 
 Contribuciones en funcionalidades de reservas y catálogo, interfaces de usuario y correcciones de calidad. El prototipo combina microservicios y arquitectura hexagonal.
 
+- Reservas y disponibilidad: aportes al inventario de cupos y su integración con el catálogo.
+- Frontend: pantallas de detalle, reserva y consulta de reservas con React.
+- Correcciones de funcionamiento e interfaz, con trazabilidad en la documentación del equipo.
+
 [Explorar el proyecto →](https://github.com/Al3jooo/Samaria360#readme) · [Ver mis pull requests →](https://github.com/Al3jooo/Samaria360/pulls?q=is%3Apr+author%3Aj-david06)
 
 ### [Finanzas personales](https://github.com/j-david06/proyecto-finanzas)
@@ -84,13 +88,17 @@ Backend para automatizar el registro de movimientos financieros en Colombia, con
 
 ### [Gestión logística de paquetes](https://github.com/j-david06/20261LogisticsPackages)
 
-Participación en un proyecto de práctica de ingeniería de software cuyo alcance abarca trazabilidad de paquetes, planificación de rutas y facturación.
+Participación en el módulo de gestión de paquetes de una plataforma logística, con separación entre dominio, casos de uso e infraestructura. La documentación describe la integración con el módulo de rutas mediante AWS SQS.
 
-**Java · Reglas de negocio · Trabajo colaborativo**
+**Java · Spring Boot · PostgreSQL · React · AWS SQS**
+
+- Historial de transiciones en los flujos de admisión, almacenaje y clasificación.
+- Corrección del manejo del estado inicial del paquete para evitar errores en el seguimiento.
+- Selector dinámico de sedes en la interfaz de admisión.
 
 Repositorio derivado de [InsoftUnimag/20261LogisticsPackages](https://github.com/InsoftUnimag/20261LogisticsPackages).
 
-[Explorar el proyecto →](https://github.com/j-david06/20261LogisticsPackages#readme)
+[Explorar el proyecto →](https://github.com/j-david06/20261LogisticsPackages#readme) · [Ver mis pull requests →](https://github.com/InsoftUnimag/20261LogisticsPackages/pulls?q=is%3Apr+author%3Aj-david06)
 
 ## Colaboración
 
