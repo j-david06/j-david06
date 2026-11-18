@@ -1,22 +1,15 @@
 <p align="center">
-  <img src="creative-header.gif" alt="Juan Rivera — Backend, arquitectura de software y desarrollo web" width="100%" />
+  <img src="header-programmer.gif" alt="Juan Rivera — Programador trabajando frente a su computador" width="100%" />
 </p>
 
 <p align="center">
   <a href="#sobre-mí">Sobre mí</a> ·
-  <a href="#02--tecnologías">Tecnologías</a> ·
-  <a href="#03--proyectos-destacados">Proyectos</a> ·
-  <a href="#04--colaboración">Colaboración</a>
+  <a href="#tecnologías">Tecnologías</a> ·
+  <a href="#proyectos-destacados">Proyectos</a> ·
+  <a href="#colaboración">Colaboración</a>
 </p>
 
 ## Sobre mí
-
-<p align="center">
-  <img src="creative-about.gif" width="100%" alt="Juan Rivera. Estudiante de Ingeniería de Sistemas, octavo semestre en la Universidad del Magdalena, Santa Marta. Enfoque en backend, arquitectura de software y desarrollo web con React. Bases en Java, C++, Clean Code y SOLID. Proyectos de turismo, logística y finanzas personales. Comunicación técnica y trabajo en equipo. Interés en aprender integración de IA y desarrollo móvil." />
-</p>
-
-<details>
-<summary>Leer la presentación en texto</summary>
 
 Hola, soy **Juan Rivera**
 
@@ -27,9 +20,7 @@ Estudiante de **Ingeniería de Sistemas en la Universidad del Magdalena**, actua
 - **Trabajo en equipo:** capacidad para comunicar conceptos técnicos, acompañar la resolución de problemas y colaborar en el desarrollo de software.
 - **Quiero aprender:** integración de soluciones con IA y desarrollo de aplicaciones móviles.
 
-</details>
-
-## 02 / Tecnologías
+## Tecnologías
 
 Tecnologías que he aplicado en proyectos y durante mi formación:
 
@@ -73,7 +64,7 @@ Trabajo también con **C++**, **SQL**, **WSL / Ubuntu**, **GitHub Pages** y **VS
 - **Python y scikit-learn:** algoritmos de búsqueda y clasificación de texto en Inteligencia Artificial.
 - **R:** modelado de dinámica de sistemas.
 
-## 03 / Proyectos destacados
+## Proyectos destacados
 
 ### [Samaria360](https://github.com/Al3jooo/Samaria360)
 
@@ -115,7 +106,7 @@ Repositorio derivado de [InsoftUnimag/20261LogisticsPackages](https://github.com
 
 [Explorar el proyecto →](https://github.com/j-david06/20261LogisticsPackages#readme) · [Ver mis pull requests →](https://github.com/InsoftUnimag/20261LogisticsPackages/pulls?q=is%3Apr+author%3Aj-david06)
 
-## 04 / Colaboración
+## Colaboración
 
 ¿Compartes interés por Java, automatización o diseño de sistemas? Puedes explorar mis proyectos y conversar sobre mejoras en sus issues y pull requests.
 
