@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header-programmer.gif" alt="Juan Rivera — Programador trabajando frente a su computador" width="100%" />
+  <img src="https://raw.githubusercontent.com/j-david06/j-david06/5b489bc80f18279e20d51a1f37544c4f5d8f0306/header-programmer.gif" alt="Juan Rivera — Programador trabajando frente a su computador" width="100%" />
 </p>
 
 <p align="center">
